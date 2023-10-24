@@ -1,0 +1,36 @@
+#1- Simple answer just download the practice file .zip. Zip file contains four images that will be used throughout the course. 
+
+#2- This task asks the user to geolocate the origins of the image (1.png). The image is of a reflective monument that is round in shape and has the same form as a bean. Around the monument are smaller reflective round structures that resemble bubbles. Initially, I believed that this was an image of "The Bean" sculpture in Chicago. However, I placed the image in Google's reverse image search and discovered that the sculpture was located in the city of Karamay Xinjiang, China. The sculpture is called "The Bubble" and it was made to commemorate the discovery of oil in the Xinjiang region. 
+
+I decided to use Google's reverse image search over TryHackMe's Yandex Reverse Image Search due to Yandex's ties to the Russia. I will continue this practice throughout the course of this module. 
+
+#3- This Task discusses gathering information from livestreams. In the task the author provides a still image from a livestream with two buildings in tn the image. One building's exterior is primarily made of glass. The other building is made of white brick and has the word "Kaplan" inscribed on its side. The author explains that one can search for the image of the building (via reverse image search or through the "Kaplan"). Additionally, with the URL disclosing the location of "Liverpool" 
+(https://padcam.liverpool.ac.uk/cgi-bin/guestimage.html) the analyst is able to conduct a search of Liverpool via Google Earth in search of the Kaplan building. Once the Kaplan
+building is found, the analyst is able to find the location of the camera by facing the opposite direction of the still image. In doing this, the analyst can discover that the 
+camera/livestream originates from a residential building in Liverpool, UK. 
+
+#4- Task number 4 asks the user to access image 2.png in the zip file and locate the building that has the camera on it. The image is of an intersection with the two street signsN Sheffield AV and W Addison Street. Additionally, on the far right side of the image there is a blue sign that reads "Sports Corner" and in the center midground there is a statue of a person with one leg and arm raised. 
+
+With all of these details collected the analyst is able to use Google Earth to search the location of "Sports Corner" located on W Addison Street. This reveals the Sports Corner bar and the notable statues in the midground. Proceeding to enter into street view the analyst is able to station themselves in the intersection and identifty the location of the camera. The camera is mounted to the upper wall of the W Addison Street side of Wrigleyville Sports building. 
+
+#5- Task number 5 tells the reader to take a wholistic view of the image in order to geolocate it. The author specifically states that the analyst should be sure to note every detail in the image. These details could be what clothes people are wearing, the weather, vehicles, license plates, or the language that appear on signs. Additionally, the author states that the analyst should attempt to look at the source of the image. These details include whether the image was tagged on social media or if it has any metadata attached to it (ie time taken, location, device info, resolution).
+
+#6- Task number 6 was tricky. In this task the author asks the reader to analyze a blurry photo of a round building with four smaller round buildings near by in the foreground, a wooded area in the midground, and a dense city in the background with a distinct radio tower like structure near a river with three bridges.
+
+The author states that the reader is not to use reverse image search and that the reader should use the tips offered in task 5. Additionally, the author states that they are searching for the specific name of the pictured site. 
+
+In doing this challenge the analyst must look specifically at the mid and background. Through the analysis of these details the analyst will notice several details. The season is winter and most of the trees are without leaves, this detail points to the location being potentially in the northern hemisphere or in an area that experiences colder winters. The city in the background has a river, three bridges, and the iconic radio tower structure. In the foreground the round buildings look similar to an observatory due to the dome structures that exist. 
+
+With these details noted, the analyst has a plethora of paths to take in definitively determining where this photo is from. The iconic radio structure in the background is the ideal place to start. In thinking of monuments that resemble this landmark one can draw thee connection to the Eiffel Tower in France. Upon analyzing the geography of Paris using Google Earth, the analyst can identify the river and the three bridges also pictured. Following the river, the analyst is able to locate a lightly wooded area on the outskirts of Paris overlooking the Eiffel Tower to the southeast. In searching for "Paris Observatory" the analyst discovers that at the top of this wooded hill is the Meudon Observatory. Here the building in the image is found over looking Paris from afar. 
+
+#7- Task 7 asks the analyst to observe and identify a three way intersection. In the midground and middle of the intersection there is a granite obelisk with several yellow lights that are marking pedestrian walk ways. In the foreground of the image there is a vihicle with a yellow plate that says "LO10PNE". At the bottom of the photo there is a red line that says "LIVE".
+
+With all of these observations, the analyst can identify that the image is taken somewhere in the United Kingdom, specifically London. This fact is observed from the vihicle's plate area ID of "LO" and the belisha beacons (yellow lights) around the intersection. Searching "London Intersection Livestream" on Google reveals the location is Abbey Road. 
+
+#8- Task 8 congratulates the user and suggests the user continues to hone the skill of geolocation. 
+
+Summary: 
+Throughout this course a common theme has been attention to detail and experience. The more experience that one has in different cultures of the world the more likely those analysts will be able to identify landmarks and locations. Noting every detail in an image is also important because it might just be the piece that solves the whole puzzle. 
+
+
+
